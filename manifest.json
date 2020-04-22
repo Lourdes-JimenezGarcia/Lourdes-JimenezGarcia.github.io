@@ -1,0 +1,35 @@
+{
+	"name":"PWA Localización",
+	"short_name":"Localizacion",
+	"icons":[
+	{
+		"src":"/Avance 1 PWA/icons.jpg",
+		"sizes": "128x128",
+		"type":"image/png"
+	},{
+
+		"src":"/Avance 1 PWA/icons.jpg",
+		"sizes": "144x144",
+		"type":"image/png"
+	}, {
+		"src":"/Avance 1 PWA/icons.jpg",
+		"sizes": "152x152",
+		"type":"image/png"
+	}, {
+		"src":"/Avance 1 PWA/icons.jpg",
+		"sizes": "192x192",
+		"type":"image/png"
+	}, {
+		"src":"/Avance 1 PWA/icons.jpg",
+		"sizes": "256x256",
+		"type":"image/png"
+	},{
+		"src":"/Avance 1 PWA/icons.jpg",
+		"sizes": "512x512",
+		"type":"image/png"
+	}],
+	"start_url": "/paginaweb.html",
+	"display": "standalone",
+	"background_color": "#3E4EB8",
+	"theme_color":"#2F3BA2"
+}

@@ -1,0 +1,84 @@
+
+@charset "utf-8";
+
+/* ******Tamaño celular********* */
+@media(max-width:480px)
+{
+	body{
+	background-color:#D358F7;
+	color:#333;
+	}
+
+	p{
+	font-size:90%;
+	border:3px solid purple;
+	}
+
+	h1{
+		background-color:#050505;
+		font-family: Georgia;
+		color: #FFFFFF
+	}
+
+	img{
+    width: 5em;
+    height: 17em;
+    }
+/* **************+FIN CEL****************** */
+}
+
+/* ******Tamaño tablet********* */
+@media(min-width:481px), (max-width:980px)
+{
+	body{
+	background-color:#F6CEE3;
+	color:#333;
+	}
+
+	p{
+	font-size:120%;
+	border:5px solid purple;
+	}
+
+	h1{
+		background-color:#050505;
+		font-family: Georgia;
+		color: #FFFFFF
+		}
+
+	img{
+    width: 25em;
+    height: 17em;
+    }
+/* **************+FIN TABLET****************** */
+}
+
+
+/* ******Tamaño pc********* */
+@media(min-width:981px)
+{
+
+body{
+	background-color:#5F9EA0;
+	color:#333;
+}
+
+p{
+	font-size:150%;
+	border:6px solid purple;
+}
+
+h1{
+		background-color:#050505;
+		font-family: Georgia;
+		color: #FFFFFF
+		}
+	img{
+    width: 45em;
+    height: 25em;
+    }
+}
+/* **************+FIN PC****************** */
+}
+
+
